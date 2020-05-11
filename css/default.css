@@ -34,7 +34,7 @@ a {
 }
 #clock-box {
 	position:absolute;
-	left:60px;
+	left:50px;
 	top:10px;
 	font-size:28px;
 	display:none;
